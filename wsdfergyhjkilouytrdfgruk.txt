@@ -1,0 +1,311 @@
+afghanistan/kabul
+albania/tirana
+algeria/algiers
+andorra/andorra-la-vella
+angola/luanda
+antigua-and-barbuda/saint-johns
+argentina/buenos-aires
+armenia/yerevan
+australia/canberra
+austria/vienna
+azerbaijan/baku
+bahamas/nassau
+bahrain/manama
+bangladesh/dhaka
+barbados/bridgetown
+belarus/minsk
+belgium/brussels
+belize/belmopan
+benin/porto-novo
+bhutan/thimphu
+bolivia/la-paz
+bosnia-herzegovina/sarajevo
+botswana/gaborone
+brazil/brasilia
+brunei/bandar-seri-begawan
+bulgaria/sofia
+burkina-faso/ouagadougou
+myanmar/naypyidaw
+burundi/bujumbura
+cambodia/phnom-penh
+cameroon/yaounde
+canada/ottawa
+cape-verde/praia
+central-african-republic/bangui
+chad/ndjamena
+chile/santiago
+china/beijing
+colombia/bogota
+comoros/moroni
+congo/brazzaville
+costa-rica/san-jose
+cote-divoire/yamoussoukro
+croatia/zagreb
+cuba/havana
+cyprus/nicosia
+czech-republic/prague
+denmark/copenhagen
+djibouti/djibouti
+dominica/roseau
+dominican-republic/santo-domingo
+timor-leste/dili
+ecuador/quito
+egypt/cairo
+el-salvador/san-salvador
+equatorial-guinea/malabo
+eritrea/asmara
+estonia/tallinn
+ethiopia/addis-ababa
+fiji/suva
+finland/helsinki
+france/paris
+gabon/libreville
+gambia/banjul
+georgia/tbilisi
+germany/berlin
+ghana/accra
+greece/athens
+grenada/saint-georges
+guatemala/guatemala
+guinea/conakry
+guinea-bissau/bissau
+guyana/georgetown
+haiti/port-au-prince
+honduras/tegucigalpa
+hungary/budapest
+iceland/reykjavik
+india/new-delhi
+indonesia/jakarta
+iran/tehran
+iraq/baghdad
+ireland/dublin
+israel/jerusalem
+italy/rome
+jamaica/kingston
+japan/tokyo
+jordan/amman
+palestine
+kazakstan/astana
+kenya/nairobi
+kiribati/tarawa
+yemen/sana
+south-korea/seoul
+kosovo/pristina
+kuwait/kuwait-city
+kyrgyzstan/bishkek
+laos/vientiane
+latvia/riga
+lebanon/beirut
+lesotho/maseru
+liberia/monrovia
+libya/tripoli
+liechtenstein/vaduz
+lithuania/vilnius
+luxembourg/luxembourg
+republic-of-macedonia/skopje
+madagascar/antananarivo
+malawi/lilongwe
+malaysia/kuala-lumpur
+maldives/male
+mali/bamako
+malta/valletta
+marshall-islands/majuro
+mauritania/nouakchott
+mauritius/port-louis
+mexico/mexico-city
+micronesia/palikir
+moldova/chisinau
+monaco/monaco
+mongolia/ulaanbaatar
+montenegro/podgorica
+morocco/rabat
+mozambique/maputo
+zambia/lusaka
+namibia/windhoek
+nauru/yaren
+nepal/kathmandu
+netherlands/amsterdam
+new-zealand/wellington
+nicaragua/managua
+niger/niamey
+nigeria/abuja
+north-korea/pyongyang
+norway/oslo
+oman/muscat
+pakistan/islamabad
+palau/melekeok
+panama/panama
+papua-new-guinea/port-moresby
+paraguay/asuncion
+peru/lima
+philippines/manila
+poland/warsaw
+portugal/lisbon
+qatar/doha
+romania/bucharest
+russia/moscow
+rwanda/kigali
+saint-kitts-and-nevis/basseterre
+saint-lucia/castries
+saint-vincent-and-grenadines/kingstown
+samoa/apia
+san-marino/san-marino
+sao-tome-and-principe/sao-tome
+saudi-arabia/riyadh
+senegal/dakar
+serbia/belgrade
+seychelles/victoria
+sierra-leone/freetown
+singapore/singapore
+slovakia/bratislava
+slovenia/ljubljana
+solomon-islands/honiara
+somalia/mogadishu
+south-africa/pretoria
+south-sudan/juba
+spain/madrid
+sri-lanka/colombo
+sudan/khartoum
+suriname/paramaribo
+zimbabwe/harare
+sweden/stockholm
+switzerland/bern
+syria/damascus
+taiwan/taipei
+tajikistan/dushanbe
+tanzania/dodoma
+thailand/bangkok
+vietnam/hanoi
+togo/lome
+tonga/nuku-alofa
+trinidad-and-tobago/port-of-spain
+tunisia/tunis
+turkey/ankara
+turkmenistan/ashgabat
+tuvalu/funafuti
+uganda/kampala
+ukraine/kyiv
+united-arab-emirates/abu-dhabi
+uK/london
+usa/washington-dc
+uruguay/montevideo
+uzbekistan/tashkent
+vanuatu/port-vila
+vatican-city-state/vatican-city
+venezuela/caracas
+france/cayenne
+western-sahara/el-aaiun
+Society Islands, Tuamotus, Austral Islands - France
+Marquesas Islands - France
+Gambier Islands - France
+Clipperton Island - France
+Guadeloupe, Martinique, Saint Barthélemy, Saint Martin - France
+French Guiana, Saint Pierre and Miquelon - France
+Metropolitan France - France
+Mayotte, Scattered Islands in the Indian Ocean - France
+Réunion, Crozet Islands - France
+Kerguelen Islands, Saint Paul and Amsterdam Islands - France
+New Caledonia - France
+Wallis and Futuna - France
+(Kaliningrad Time) — Kaliningrad Oblast - Russia
+(Moscow Time) — Most of European Russia - Russia
+(Samara Time) - Russia
+(Yekaterinburg Time) - Russia
+(Omsk Time) — Omsk Oblast - Russia
+(Novosibirsk Time) - Russia
+(Irkutsk Time) — Buryatia and Irkutsk Oblast - Russia
+(Yakutsk Time) - Russia
+(Vladivostok Time) - Russia
+(Magadan Time) - Russia
+(Kamchatka Time) - Russia
+Baker Island and Howland Island - United States
+American Samoa, Jarvis Island, Kingman Reef, Midway Atoll and Palmyra Atoll - United States
+Hawaii, most of the Aleutian Islands, and Johnston Atoll - United States
+most of the state of Alaska - United States
+Pacific Time zone - California, Nevada and Oregon - United States
+Mountain Time zone - most of Idaho, part of Oregon - United States
+Central Time zone - Illinois - United States
+Eastern Time zone - Florida, New York - United States
+Puerto Rico, the U.S. Virgin Islands - United States
+Guam and the Northern Mariana Islands - United States
+Wake Island - United States
+Territory of Heard Island and McDonald Islands - Australia
+Cocos (Keeling) Islands - Australia
+Christmas Island - Australia
+Western Australia - Perth - Australia
+Eucla, Western Australia, Australia - Australia
+Darwin, Northern Territory, Australia
+Victoria, Tasmania Brisbane, Queensland, Australia - Australia
+Adelaide, South Australia, Australia - Australia
+Lord Howe Island - Australia
+Norfolk Island - Australia
+Palmer Station, Rothera Station - Antarctica
+Troll Station - Antarctica
+Syowa Station - Antarctica
+Mawson Station - Antarctica
+Vostok Station - Antarctica
+Davis Station - Antarctica
+Dumont-d'Urville Station - Antarctica
+Casey Station - Antarctica
+McMurdo Station, Amundsen–Scott South Pole Station - Antarctica
+Pitcairn Islands - United Kingdom
+Cayman Islands, Turks and Caicos Islands - United Kingdom
+Anguilla, Bermuda, British Virgin Islands, Montserrat - United Kingdom
+Falkland Islands - United Kingdom
+South Georgia and the South Sandwich Islands - United Kingdom
+main territory of the United Kingdom, Saint Helena, Ascension and Tristan da Cunha, Guernsey, Isle of Man, Jersey - United Kingdom
+Gibraltar - United Kingdom
+Akrotiri and Dhekelia - United Kingdom
+British Indian Ocean Territory - United Kingdom
+Larger Western Part of British Columbia - Canada
+Alberta - Canada
+Manitoba - Canada
+Ontario and Quebec - Canada
+Labrador, New Brunswick, Nova Scotia, Prince Edward Island - Canada
+St. John's, Newfoundland and Labrador - Canada
+Thule Air Base in Greenland
+Most of Greenland, including inhabited south coast and west coast
+Ittoqqortoormiit and surrounding area in Greenland's Tunu county
+Faroe Islands
+Main territory of Denmark
+Niue - New Zealand
+Cook Islands - New Zealand
+main territory of New Zealand
+Chatham Islands - New Zealand
+Tokelau - New Zealand
+(Brazil time -2) - Acre and Southwestern Amazonas Rio Branco - Brazil
+(Brazil time -1) - Most part of the Amazonas State, Mato Grosso, Mato Grosso do Sul, Rondônia, Roraima - Brazil
+(Brazil time) - the Southeast Region, the South Region - Sao Paulo and Rio de Janeiro - Brazil
+(Brazil time +1) - few islands on the east coast of Brazil - Fernando de Noronha, Saint Peter and Saint Paul Archipelago - Brazil
+Northwest Zone - the state of Baja California - Mexico
+Mexico City Time - Mexico
+Reynosa and most of Mexico  - Mexico
+Easter Island - Chile
+main territory of Chile
+Punta Arenas South of Chile no DTS zone - Chile
+(Western Indonesian Standard Time) - islands of Sumatra and Java - Indonesia
+(Central Indonesian Standard Time) - islands of Sulawesi and Bali - Indonesia
+(Eastern Indonesian Standard Time) - provinces of Maluku, North Maluku, Papua and West Papua - Indonesia
+Gilbert Islands - Kiribati
+Phoenix Islands - Kiribati
+Line Islands - Kiribati
+West Africa Time - The Capital - Kinshasa - Democratic Republic of the Congo
+Central Africa Time - Lubumbashi Time - Democratic Republic of the Congo
+Galapagos Islands - Ecuador
+(Ecuador Time) — main territory of Ecuador
+Chuuk Time - Federated States of Micronesia
+The states of Kosrae and Pohnpei - Federated States of Micronesia
+Western Kazakhstan (Aktobe, Atyrau, Kyzylorda, Mangystau and West Kazakhstan) - Kazakhstan
+Eastern Kazakhstan - Capital Time - Kazakhstan
+Time Zone in Caribbean Netherlands
+Main territory of the Netherlands
+The provinces of Khovd, Uvs and Bayan-Ölgii - Mongolia
+Most of the country - Mongolia
+Most of the country - Capital Time - Port Moresby - Papua New Guinea
+Arawa - Bougainville - Papua New Guinea
+Ponta Delgada - Azores - Portugal
+The main territory of Portugal
+(South African Standard Time) — main territory of South Africa
+Prince Edward Islands - South Africa
+Canary Islands - Spain
+Main territory of Spain

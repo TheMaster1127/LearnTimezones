@@ -1,0 +1,276 @@
+France - 12
+Society Islands, Tuamotus, Austral Islands - France
+@4033681
+Marquesas Islands[3] - France
+france/marquesas-islands
+Gambier Islands[3] - France
+french-polynesia/gambier-islands
+Clipperton Island - France
+clipperton-island
+Guadeloupe, Martinique, Saint Barthélemy, Saint Martin - France
+guadeloupe
+French Guiana, Saint Pierre and Miquelon - France
+french-guiana
+metropolitan France - France
+france
+Mayotte, Scattered Islands in the Indian Ocean - France
+mayotte
+Réunion, Crozet Islands - France
+reunion
+Kerguelen Islands, Saint Paul and Amsterdam Islands - France
+@1546556
+New Caledonia - France
+new-caledonia
+Wallis and Futuna - France
+wallis-and-futuna
+
+Russia - 11
+(Kaliningrad Time) — Kaliningrad Oblast - Russia
+russia/kaliningrad-oblast
+(Moscow Time) — Most of European Russia - Russia
+russia/moscow
+(Samara Time) - Russia
+@580491
+(Yekaterinburg Time) - Russia
+russia/yekaterinburg
+(Omsk Time) — Omsk Oblast - Russia
+@1496152
+(Novosibirsk Time) - Russia
+russia/novosibirsk-oblast
+(Irkutsk Time) — Buryatia and Irkutsk Oblast - Russia
+russia/irkutsk-oblast
+(Yakutsk Time) - Russia
+russia/yakutsk
+(Vladivostok Time) - Russia
+russia/vladivostok
+(Magadan Time) - Russia
+russia/magadan-oblast
+(Kamchatka Time) - Russia
+russia/kamchatka
+
+United States - 6 + 5 = 11
+Baker Island and Howland Island - United States
+usa/baker-island
+American Samoa, Jarvis Island, Kingman Reef, Midway Atoll and Palmyra Atoll - United States
+american-samoa
+Hawaii, most of the Aleutian Islands, and Johnston Atoll - United States
+usa/hawaii
+most of the state of Alaska - United States
+usa/alaska
+Pacific Time zone - California, Nevada and Oregon - United States
+usa/california
+Mountain Time zone - most of Idaho, part of Oregon - United States
+usa/salt-lake-city
+Central Time zone - Illinois - United States
+usa/illinois
+Eastern Time zone - Florida, New York - United States
+usa/new-york
+Puerto Rico, the U.S. Virgin Islands - United States
+us-virgin
+puerto-rico
+Guam and the Northern Mariana Islands - United States
+guam
+Wake Island - United States
+usa/wake-island
+
+Australia - 10
+Territory of Heard Island and McDonald Islands - Australia
+@1547314
+Cocos (Keeling) Islands - Australia
+cocos
+Christmas Island - Australia
+christmas
+Western Australia - Perth - Australia
+australia/perth
+Eucla, Western Australia, Australia - Australia
+australia/eucla
+Darwin, Northern Territory, Australia
+australia/darwin
+Victoria, Tasmania Brisbane, Queensland, Australia - Australia
+australia/queensland
+Adelaide, South Australia, Australia - Australia
+australia/adelaide
+Lord Howe Island - Australia
+australia/lord-howe
+Norfolk Island - Australia
+norfolk-island
+
+Antarctica - 9
+Palmer Station, Rothera Station - Antarctica
+antarctica/palmer-station
+Troll Station - Antarctica
+antarctica/troll
+Syowa Station - Antarctica
+@6625247
+Mawson Station - Antarctica
+antarctica/mawson
+Vostok Station - Antarctica
+antarctica/vostok-station
+Davis Station - Antarctica
+antarctica/davis
+Dumont-d'Urville Station - Antarctica
+antarctica/dumont-d-urville-station
+Casey Station - Antarctica
+antarctica/casey
+McMurdo Station, Amundsen–Scott South Pole Station - Antarctica
+antarctica/mcmurdo
+
+United Kingdom - 9
+Pitcairn Islands - United Kingdom
+pitcairn
+Cayman Islands, Turks and Caicos Islands - United Kingdom
+cayman-islands
+Anguilla, Bermuda, British Virgin Islands, Montserrat - United Kingdom
+anguilla
+Falkland Islands - United Kingdom
+falkland
+South Georgia and the South Sandwich Islands - United Kingdom
+south-georgia-sandwich
+main territory of the United Kingdom, Saint Helena, Ascension and Tristan da Cunha, Guernsey, Isle of Man, Jersey - United Kingdom
+isle-of-man
+Gibraltar - United Kingdom
+gibraltar
+Akrotiri and Dhekelia - United Kingdom
+@8306813
+British Indian Ocean Territory - United Kingdom
+biot
+
+Canada - 6
+larger western part of British Columbia - Canada
+canada/british-columbia
+Alberta - Canada
+canada/alberta
+Manitoba - Canada
+canada/manitoba
+Ontario and Quebec - Canada
+canada/ontario
+Labrador, New Brunswick, Nova Scotia, Prince Edward Island - Canada
+canada/nova-scotia
+St. John's, Newfoundland and Labrador - Canada
+canada/st-johns
+
+Denmark - 5
+Thule Air Base in Greenland
+greenland/thule-air-base
+most of Greenland, including inhabited south coast and west coast
+greenland/nuuk
+Ittoqqortoormiit and surrounding area in Greenland's Tunu county
+greenland/ittoqqortoormiit
+Faroe Islands
+faroe
+main territory of Denmark
+denmark
+
+New Zealand - 5
+Niue - New Zealand
+niue
+Cook Islands - New Zealand
+cook-islands
+main territory of New Zealand
+new-zealand
+Chatham Islands - New Zealand
+new-zealand/chatham-islands-territory
+Tokelau - New Zealand
+tokelau
+
+Brazil - 4
+(Brasília time −2) — Acre and Southwestern Amazonas Rio Branco - Brazil
+brazil/rio-branco
+(Brasília time −1) — Most part of the Amazonas State, Mato Grosso, Mato Grosso do Sul, Rondônia, Roraima - Brazil
+brazil/manaus
+(Brasília time) — the Southeast Region, the South Region - Sao Paulo and Rio de Janeiro - Brazil
+brazil/sao-paulo
+(Brasília time +1) — few islands on the east coast of Brazil - Fernando de Noronha, Saint Peter and Saint Paul Archipelago - Brazil
+brazil/fernando-de-noronha
+
+Mexico - 3
+Northwest Zone — the state of Baja California - Mexico 
+mexico/baja-california
+Mexico City Time - Mexico 
+mexico/mexico-city
+Reynosa and most of Mexico  - Mexico 
+mexico/reynosa
+
+Chile - 3
+Easter Island - Chile
+chile/easter-island
+main territory of Chile
+chile
+Punta Arenas South of Chile no DTS zone - Chile
+chile/punta-arenas
+
+Indonesia - 3
+(Western Indonesian Standard Time) — islands of Sumatra and Java - Indonesia
+indonesia/jakarta
+(Central Indonesian Standard Time) — islands of Sulawesi and Bali - Indonesia
+indonesia/makassar
+(Eastern Indonesian Standard Time) — provinces of Maluku, North Maluku, Papua and West Papua - Indonesia
+indonesia/manokwari
+
+Kiribati - 3
+Gilbert Islands - Kiribati
+kiribati/tarawa
+Phoenix Islands - Kiribati
+kiribati/kanton-island
+Line Islands - Kiribati
+kiribati/kiritimati
+
+Democratic Republic of the Congo - 2
+West Africa Time - The Capital - Kinshasa - Democratic Republic of the Congo
+congo-demrep/kinshasa
+Central Africa Time - Lubumbashi Time - Democratic Republic of the Congo
+congo-demrep/lubumbashi
+
+Ecuador - 2
+Galapagos Islands - Ecuador
+ecuador/galapagos-islands
+(Ecuador Time) — main territory of Ecuador
+ecuador/quito
+
+Federated States of Micronesia - 2
+Chuuk Time - Federated States of Micronesia
+micronesia/weno
+The states of Kosrae and Pohnpei - Federated States of Micronesia
+micronesia/lelu
+
+Kazakhstan - 2
+Western Kazakhstan (Aktobe, Atyrau, Kyzylorda, Mangystau and West Kazakhstan) - Kazakhstan
+kazakstan/aqtobe
+Eastern Kazakhstan - Capital Time - Kazakhstan
+kazakstan/almaty
+
+Kingdom of the Netherlands - 2
+Time Zone in Caribbean Netherlands
+caribbean-netherlands
+Main territory of the Netherlands
+netherlands/amsterdam
+
+Mongolia - 2
+The provinces of Khovd, Uvs and Bayan-Ölgii - Mongolia
+mongolia/hovd
+Most of the country - Mongolia
+mongolia/ulaanbaatar
+
+Papua New Guinea - 2
+Most of the country - Capital Time - Port Moresby - Papua New Guinea
+papua-new-guinea/port-moresby
+Arawa - Bougainville - Papua New Guinea
+papua-new-guinea/arawa
+
+Portugal - 2
+Ponta Delgada - Azores - Portugal
+portugal/ponta-delgada-azores
+The main territory of Portugal
+portugal/lisbon
+
+South Africa - 2
+(South African Standard Time) — main territory of South Africa
+south-africa
+Prince Edward Islands - South Africa
+south-africa/marion-island-prince-edward-islands
+
+Spain - 2
+Canary Islands - Spain
+spain/canary-islands
+Main territory of Spain
+spain/madrid

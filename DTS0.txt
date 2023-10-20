@@ -1,0 +1,734 @@
+Daylight Saving Time Around the World 2023 @font-face{font-family:iconfont;src:url("/common/fonts/iconfont.woff2?v8") format("woff2"),url("/common/fonts/iconfont.woff?v8") format("woff"),url("/common/fonts/iconfont.ttf?v8") format("truetype"),url("/common/fonts/iconfont.svg?v8#iconfont") format("svg");font-weight:400;font-style:normal}       AdMgr=(function(){var isLog=0,isSent=0,slots=[],slotsR=[],techs=[],isResent=0,techsR=[],vals={}; function logAds(){if(isLog){return} if(!window.jcb||!window.TADhba){setTimeout(logAds,1000); return} isLog=1; jcb("/scripts/logads.php?d=d"+"&"+TADhba(),function(){})} AD={s:[],o:0}; googletag=window.googletag||{}; googletag.cmd=googletag.cmd||[]; function push(f){googletag.cmd.push(f)} function set(n,v){vals[n]=v} function get(n){return vals[n]} function setTargeting(n,v){if(v){push(function(){googletag.pubads().setTargeting(n,v)})}} function send(){if(isSent)return; isSent=true; setTargeting("pbv",window.pbv); push(function(){googletag.enableServices(); googletag.pubads().refresh(AD.s)})} function resend(){if(isResent)return; isResent=true; let o=slotsR[0]; o.S.setTargeting('rot',''+o.r); googletag.pubads().refresh([o.S])} function rendered(){setTimeout(logAds,1000)} function bidsIn(i){delete techs[i]; if(Object.keys(techs).length==0){sendAdserverRequest()}} function bidsInR(i){delete techsR[i]; if(Object.keys(techsR).length==0){resend()}} function addSlot(o){if (o.wm&&o.wm>window.innerWidth){o.wf.i=o.i; o=o.wf} o.r=0; o.a9=function(){return{slotID:o.i,slotName:o.n,sizes:o.s}} slots.push(o); if(o.css){let s=document.createElement('style'); s.textContent=o.css; document.head.append(s)}} function refresh(o){if (o.r<3 && AdMgr.highBid){o.r++; slotsR=[o]; setTimeout(resend,3000)}} function slot(i){return slots[i]} function a9slot(i){return slot(i).a9()} function gptSlot(i){let o=slot(i),j; if(o){o.S=googletag.defineSlot(o.n,o.s,o.i); if(o.t){for(j=0;j<o.t.length;j++){t=o.t[j]; o.S.setTargeting(t[0],t[1])}} o.S.addService(googletag.pubads()); AD.s.push(o.S); if (o.ro){let e=document.getElementById(o.i); if(e){addEventListener("impressionViewableRotate",function(){refresh(o)}, true)}}}} function dispSlot(i){let o=slot(i); push(function(){googletag.display(o.i)})} push(function(){googletag.pubads().disableInitialLoad(); googletag.pubads().addEventListener('slotRenderEnded',rendered); googletag.pubads().setPublisherProvidedId('b355276d4e94c938cc8b82b9f8987348')}); return {addSlot:addSlot, slot:slot, a9slot:a9slot, gptSlot:gptSlot, dispSlot:dispSlot, bidsIn:bidsIn, bidsInR:bidsInR, push:push, setTargeting:setTargeting, send:send, set:set, get:get, rendered:rendered}})(); AdMgr.addSlot({n:'/1004254/tadcom_300x600',s:[[300,600],[300,250],[160,600],[120,600]],i:'div-gpt-com-300x600',wm:1440,wf:{n:'/1004254/com_160',s:[[160,600],[120,600]],i:'div-gpt-com-160x600',ro:1},ro:1,css:":root{--advert-sky-size:300px}"});AdMgr.addSlot({n:'/1004254/tadcom_970',s:[[970,90],[728,90]],i:'div-gpt-com-970x90-head',wm:1440,wf:{n:'/1004254/com728',s:[[728,90]],i:'div-gpt-com-728x90-head'}}); function cmpEvent(t,s){if(s){let e=t.eventStatus; if(e=='useractioncomplete'||e=='tcloaded'){if (!t.purpose.consents[1]){AdMgr.set('p1',1)} consentDataReady(); /* if (t.purpose.consents[4]){consentDataReady()} else {sendAdserverRequest()} */}}} function consentDataReady(){consentDataReady=function(){}; sendAdserverRequest()} function sendAdserverRequest(){AdMgr.send()} setTimeout(function(){function cmpWait(sec){if(typeof(window.__tcfapi)=="function"){__tcfapi('ping',2,function(d){if(d&&d.displayStatus!="visible"){sendAdserverRequest()}})}else{if (sec>0) {setTimeout(function(){cmpWait(sec-1)},1000)} else {sendAdserverRequest()}}} cmpWait(5)},499); googletag.cmd.push(function(){AdMgr.gptSlot(0);AdMgr.gptSlot(1);googletag.pubads().setTargeting('ab','a').setTargeting('hr','08').setTargeting('ut','d9').setTargeting('art','2904').enableSingleRequest()});   {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Time Zones","item":"https://www.timeanddate.com/time/"},{"@type":"ListItem","position":2,"name":"Daylight Saving Time","item":"https://www.timeanddate.com/time/dst/"},{"@type":"ListItem","position":3,"name":"2023"}]} a.yourdst-lk{text-decoration:none!important}.yourdst{color:#fff;letter-spacing:.5px}.yourdst_top--start,.yourdst_top--stop{border-radius:4px 4px 0 0;margin:0;padding:0 16px}.yourdst_top--start{background-color:#26ca93}.yourdst_bottom--start{background-color:#1e9f74}.yourdst_bottom--start,.yourdst_bottom--stop{border-radius:0 0 4px 4px;margin:0;padding:8px 16px}.yourdst_top--stop{background-color:#fb4d56}.yourdst_bottom--stop{background-color:#fa1b27}.yourdst_turntxt{font-size:22px;line-height:1.2;padding-top:8px}.yourdst_txt{font-size:13px;font-weight:300;line-height:1.2;padding-bottom:8px}.yourdst_date{font-size:16px;line-height:1.3}.yourdst,.yourdst span{display:block}.dst-blocks{display:flex;justify-content:space-between}.dst-block{min-width:48%}.dst-block__txt{border-radius:6px}.dst-block--start .dst-block__txt{background:#1e9f74}.dst-block--end .dst-block__txt{background:#fa1b27}.dst-block__change,.dst-block__date{display:block}.dst-block__change{font-size:24px;margin-top:6px}.dst-block__link{color:#fff;display:block;padding:12px;text-align:center;text-decoration:none}.dst-block__txt:hover{box-shadow:0 6px 10px rgba(0,0,0,.14),0 1px 18px rgba(0,0,0,.12),0 3px 5px rgba(0,0,0,.2)}table.table.table--left.table--inner-borders-rows.table--hover { margin-bottom: 32px; } 
+ 
+ 
+AdMgr.dispSlot(1);  
+ 
+ 
+ 
+Sign in   
+NewsAstronomy News
+Time Zone News
+Calendar & Holiday News
+Newsletter
+Live events
+World ClockMain World Clock
+Extended World Clock
+Personal World Clock
+Clock for Your Site
+UTC Time
+Time ZonesTime Zones Home
+Time Zone Converter
+Meeting Planner
+Event Time Announcer
+Time Zone Map
+Time Zone Abbreviations
+Daylight Saving Time
+Time Changes Worldwide
+Time Difference
+Time Zone News
+CalendarCalendars Home
+Calendar 2023
+Calendar 2024
+Monthly Calendar
+Printable Calendar (PDF)
+Add Your Own Calendar Events
+Calendar Creator
+Holidays Worldwide
+On This Day in History
+Fun Holidays
+Months of the Year
+Days of the Week
+About Leap Years
+WeatherWorldwide
+Local Weather
+Hour-by-Hour
+2-Week Forecast
+Past Week
+Climate
+Sun, Moon & SpaceSun & Moon Home
+Sun Calculator
+Moon Calculator
+Moon Phases
+Night Sky
+Meteor Showers
+Day and Night Map
+Moon Light World Map
+Eclipses
+April 2024 Total Solar Eclipse
+Live Streams
+Seasons
+Astronomy News
+TimersTimers Home
+Stopwatch
+Timer
+Countdown to Any Date
+Halloween Countdown
+Thanksgiving Countdown
+New Year Countdown
+Countdown for Your Site
+CalculatorsCalculators Home
+Date to Date Calculator (duration)
+Business Date to Date (exclude holidays)
+Date Calculator (add / subtract)
+Business Date (exclude holidays)
+Weekday Calculator
+Week Number Calculator
+Roman Numeral Converter
+Alternative Age Calculator
+Date Pattern Calculator
+Distance Calculator
+ My AccountMy Account
+My Location
+My Units
+My Events
+My World Clock
+My Privacy
+Paid Services
+Sign in
+Register
+window.TAD=window.TAD||{};TAD.abtest='a'; 
+Home   Time Zones   Daylight Saving Time   2023
+Daylight Saving Time Around the World 2023
+Who has DST in 2023?
+ Areas having DST in some period during 2023 
+ No DST in 2023 
+Daylight Saving Time (DST) is often referred to as “daylight savings” or “summer time.” When DST is not observed, it is called standard time or winter time.
+The list below shows an overview of countries and territories with DST in 2023. For more details, see information for the first half of 2023 and the second half of 2023.
+Note: This list may not be final. Sometimes countries, states, and territories make changes announced just days or weeks ahead of the time change.
+Scroll right to see more
+ 
+Countries Observing DST Clock Change Events 2023
+Country
+Regions/States
+DST Start Date
+DST End Date
+Afghanistan
+All locationsNo DST in 2023
+Åland Islands
+All locationsSunday, 26 MarchSunday, 29 October
+Albania
+All locationsSunday, 26 MarchSunday, 29 October
+Algeria
+All locationsNo DST in 2023
+American Samoa
+All locationsNo DST in 2023
+Andorra
+All locationsSunday, 26 MarchSunday, 29 October
+Angola
+All locationsNo DST in 2023
+Anguilla
+All locationsNo DST in 2023
+Antarctica
+Most locationsNo DST in 2023
+Some locationsSunday, 24 SeptemberSunday, 2 April
+Palmer StationDST all year in 2023
+Troll StationSunday, 19 MarchSunday, 29 October
+Antigua and Barbuda
+All locationsNo DST in 2023
+Argentina
+All locationsNo DST in 2023
+Armenia
+All locationsNo DST in 2023
+Aruba
+All locationsNo DST in 2023
+Australia
+Most locationsSunday, 1 OctoberSunday, 2 April
+Queensland, Northern Territory, Western AustraliaNo DST in 2023
+Lord Howe IslandSunday, 1 OctoberSunday, 2 April
+Austria
+All locationsSunday, 26 MarchSunday, 29 October
+Azerbaijan
+All locationsNo DST in 2023
+Bahrain
+All locationsNo DST in 2023
+Bangladesh
+All locationsNo DST in 2023
+Barbados
+All locationsNo DST in 2023
+Belarus
+All locationsNo DST in 2023
+Belgium
+All locationsSunday, 26 MarchSunday, 29 October
+Belize
+All locationsNo DST in 2023
+Benin
+All locationsNo DST in 2023
+Bermuda
+All locationsSunday, 12 MarchSunday, 5 November
+Bhutan
+All locationsNo DST in 2023
+Bolivia
+All locationsNo DST in 2023
+Bosnia and Herzegovina
+All locationsSunday, 26 MarchSunday, 29 October
+Botswana
+All locationsNo DST in 2023
+Brazil
+All locationsNo DST in 2023
+British Indian Ocean Territory
+All locationsNo DST in 2023
+British Virgin Islands
+All locationsNo DST in 2023
+Brunei
+All locationsNo DST in 2023
+Bulgaria
+All locationsSunday, 26 MarchSunday, 29 October
+Burkina Faso
+All locationsNo DST in 2023
+Burundi
+All locationsNo DST in 2023
+Cabo Verde
+All locationsNo DST in 2023
+Cambodia
+All locationsNo DST in 2023
+Cameroon
+All locationsNo DST in 2023
+Canada
+Most locationsSunday, 12 MarchSunday, 5 November
+Much of Saskatchewan, Yukon, small region of British Columbia, small region of Nunavut, small region of Quebec, small region of OntarioNo DST in 2023
+Caribbean Netherlands
+All locationsNo DST in 2023
+Cayman Islands
+All locationsNo DST in 2023
+Central African Republic
+All locationsNo DST in 2023
+Chad
+All locationsNo DST in 2023
+Chile
+Most locationsSunday, 3 SeptemberSunday, 2 April
+Some locationsDST all year in 2023
+Easter IslandSaturday, 2 SeptemberSaturday, 1 April
+China
+All locationsNo DST in 2023
+Christmas Island
+All locationsNo DST in 2023
+Clipperton Island
+All locationsNo DST in 2023
+Cocos (Keeling) Islands
+All locationsNo DST in 2023
+Colombia
+All locationsNo DST in 2023
+Comoros
+All locationsNo DST in 2023
+Congo
+All locationsNo DST in 2023
+Congo Democratic Republic
+All locationsNo DST in 2023
+Cook Islands
+All locationsNo DST in 2023
+Costa Rica
+All locationsNo DST in 2023
+Cote d'Ivoire
+All locationsNo DST in 2023
+Croatia
+All locationsSunday, 26 MarchSunday, 29 October
+Cuba
+All locationsSunday, 12 MarchSunday, 5 November
+Curaçao
+All locationsNo DST in 2023
+Cyprus
+All locationsSunday, 26 MarchSunday, 29 October
+Czechia
+All locationsSunday, 26 MarchSunday, 29 October
+Denmark
+All locationsSunday, 26 MarchSunday, 29 October
+Djibouti
+All locationsNo DST in 2023
+Dominica
+All locationsNo DST in 2023
+Dominican Republic
+All locationsNo DST in 2023
+East Timor
+All locationsNo DST in 2023
+Ecuador
+All locationsNo DST in 2023
+Egypt
+All locationsFriday, 28 AprilFriday, 27 October
+El Salvador
+All locationsNo DST in 2023
+Equatorial Guinea
+All locationsNo DST in 2023
+Eritrea
+All locationsNo DST in 2023
+Estonia
+All locationsSunday, 26 MarchSunday, 29 October
+Eswatini
+All locationsNo DST in 2023
+Ethiopia
+All locationsNo DST in 2023
+Falkland Islands
+All locationsNo DST in 2023
+Faroe Islands
+All locationsSunday, 26 MarchSunday, 29 October
+Fiji
+All locationsNo DST in 2023
+Finland
+All locationsSunday, 26 MarchSunday, 29 October
+France
+Most locationsSunday, 26 MarchSunday, 29 October
+Port-aux-FrancaisNo DST in 2023
+French Guiana
+All locationsNo DST in 2023
+French Polynesia
+All locationsNo DST in 2023
+French Southern Territories
+All locationsNo DST in 2023
+Gabon
+All locationsNo DST in 2023
+Gambia
+All locationsNo DST in 2023
+Georgia
+All locationsNo DST in 2023
+Germany
+All locationsSunday, 26 MarchSunday, 29 October
+Ghana
+All locationsNo DST in 2023
+Gibraltar
+All locationsSunday, 26 MarchSunday, 29 October
+Greece
+All locationsSunday, 26 MarchSunday, 29 October
+Greenland
+Most locationsSaturday, 25 MarchSaturday, 28 October
+Some locationsNo DST in 2023
+IttoqqortoormiitSunday, 26 MarchSunday, 29 October
+Thule Air BaseSunday, 12 MarchSunday, 5 November
+Grenada
+All locationsNo DST in 2023
+Guadeloupe
+All locationsNo DST in 2023
+Guam
+All locationsNo DST in 2023
+Guatemala
+All locationsNo DST in 2023
+Guernsey
+All locationsSunday, 26 MarchSunday, 29 October
+Guinea
+All locationsNo DST in 2023
+Guinea-Bissau
+All locationsNo DST in 2023
+Guyana
+All locationsNo DST in 2023
+Haiti
+All locationsSunday, 12 MarchSunday, 5 November
+Honduras
+All locationsNo DST in 2023
+Hong Kong
+All locationsNo DST in 2023
+Hungary
+All locationsSunday, 26 MarchSunday, 29 October
+Iceland
+All locationsNo DST in 2023
+India
+All locationsNo DST in 2023
+Indonesia
+All locationsNo DST in 2023
+Iran
+All locationsNo DST in 2023
+Iraq
+All locationsNo DST in 2023
+Ireland
+All locationsSunday, 26 MarchSunday, 29 October
+Isle of Man
+All locationsSunday, 26 MarchSunday, 29 October
+Israel
+All locationsFriday, 24 MarchSunday, 29 October
+Italy
+All locationsSunday, 26 MarchSunday, 29 October
+Jamaica
+All locationsNo DST in 2023
+Japan
+All locationsNo DST in 2023
+Jersey
+All locationsSunday, 26 MarchSunday, 29 October
+Jordan
+All locationsNo DST in 2023
+Kazakhstan
+All locationsNo DST in 2023
+Kenya
+All locationsNo DST in 2023
+Kiribati
+All locationsNo DST in 2023
+Kosovo
+All locationsSunday, 26 MarchSunday, 29 October
+Kuwait
+All locationsNo DST in 2023
+Kyrgyzstan
+All locationsNo DST in 2023
+Laos
+All locationsNo DST in 2023
+Latvia
+All locationsSunday, 26 MarchSunday, 29 October
+Lebanon
+All locationsThursday, 30 MarchSunday, 29 October
+Lesotho
+All locationsNo DST in 2023
+Liberia
+All locationsNo DST in 2023
+Libya
+All locationsNo DST in 2023
+Liechtenstein
+All locationsSunday, 26 MarchSunday, 29 October
+Lithuania
+All locationsSunday, 26 MarchSunday, 29 October
+Luxembourg
+All locationsSunday, 26 MarchSunday, 29 October
+Macau
+All locationsNo DST in 2023
+Madagascar
+All locationsNo DST in 2023
+Malawi
+All locationsNo DST in 2023
+Malaysia
+All locationsNo DST in 2023
+Maldives
+All locationsNo DST in 2023
+Mali
+All locationsNo DST in 2023
+Malta
+All locationsSunday, 26 MarchSunday, 29 October
+Marshall Islands
+All locationsNo DST in 2023
+Martinique
+All locationsNo DST in 2023
+Mauritania
+All locationsNo DST in 2023
+Mauritius
+All locationsNo DST in 2023
+Mayotte
+All locationsNo DST in 2023
+Mexico
+Most locationsNo DST in 2023
+Baja California, much of Chihuahua, much of Tamaulipas, much of Nuevo LeónSunday, 12 MarchSunday, 5 November
+Micronesia
+All locationsNo DST in 2023
+Moldova
+All locationsSunday, 26 MarchSunday, 29 October
+Monaco
+All locationsSunday, 26 MarchSunday, 29 October
+Mongolia
+All locationsNo DST in 2023
+Montenegro
+All locationsSunday, 26 MarchSunday, 29 October
+Montserrat
+All locationsNo DST in 2023
+Morocco
+All locationsSunday, 23 AprilSunday, 19 March
+Mozambique
+All locationsNo DST in 2023
+Myanmar
+All locationsNo DST in 2023
+Namibia
+All locationsNo DST in 2023
+Nauru
+All locationsNo DST in 2023
+Nepal
+All locationsNo DST in 2023
+Netherlands
+Most locationsSunday, 26 MarchSunday, 29 October
+Saba, Sint EustatiusNo DST in 2023
+New Caledonia
+All locationsNo DST in 2023
+New Zealand
+All locationsSunday, 24 SeptemberSunday, 2 April
+Nicaragua
+All locationsNo DST in 2023
+Niger
+All locationsNo DST in 2023
+Nigeria
+All locationsNo DST in 2023
+Niue
+All locationsNo DST in 2023
+Norfolk Island
+All locationsSunday, 1 OctoberSunday, 2 April
+North Korea
+All locationsNo DST in 2023
+North Macedonia
+All locationsSunday, 26 MarchSunday, 29 October
+Northern Mariana Islands
+All locationsNo DST in 2023
+Norway
+All locationsSunday, 26 MarchSunday, 29 October
+Oman
+All locationsNo DST in 2023
+Pakistan
+All locationsNo DST in 2023
+Palau
+All locationsNo DST in 2023
+Palestine
+All locationsSaturday, 29 AprilSaturday, 28 October
+Panama
+All locationsNo DST in 2023
+Papua New Guinea
+All locationsNo DST in 2023
+Paraguay
+All locationsSunday, 1 OctoberSunday, 26 March
+Peru
+All locationsNo DST in 2023
+Philippines
+All locationsNo DST in 2023
+Pitcairn Islands
+All locationsNo DST in 2023
+Poland
+All locationsSunday, 26 MarchSunday, 29 October
+Portugal
+All locationsSunday, 26 MarchSunday, 29 October
+Puerto Rico
+All locationsNo DST in 2023
+Qatar
+All locationsNo DST in 2023
+Reunion
+All locationsNo DST in 2023
+Romania
+All locationsSunday, 26 MarchSunday, 29 October
+Russia
+All locationsNo DST in 2023
+Rwanda
+All locationsNo DST in 2023
+Saint Helena
+All locationsNo DST in 2023
+Saint Kitts and Nevis
+All locationsNo DST in 2023
+Saint Lucia
+All locationsNo DST in 2023
+Saint Martin
+All locationsNo DST in 2023
+Saint Pierre and Miquelon
+All locationsSunday, 12 MarchSunday, 5 November
+Saint Vincent and the Grenadines
+All locationsNo DST in 2023
+Samoa
+All locationsNo DST in 2023
+San Marino
+All locationsSunday, 26 MarchSunday, 29 October
+Sao Tome and Principe
+All locationsNo DST in 2023
+Saudi Arabia
+All locationsNo DST in 2023
+Senegal
+All locationsNo DST in 2023
+Serbia
+All locationsSunday, 26 MarchSunday, 29 October
+Seychelles
+All locationsNo DST in 2023
+Sierra Leone
+All locationsNo DST in 2023
+Singapore
+All locationsNo DST in 2023
+Sint Maarten
+All locationsNo DST in 2023
+Slovakia
+All locationsSunday, 26 MarchSunday, 29 October
+Slovenia
+All locationsSunday, 26 MarchSunday, 29 October
+Solomon Islands
+All locationsNo DST in 2023
+Somalia
+All locationsNo DST in 2023
+South Africa
+All locationsNo DST in 2023
+South Georgia/Sandwich Is.
+All locationsNo DST in 2023
+South Korea
+All locationsNo DST in 2023
+South Sudan
+All locationsNo DST in 2023
+Spain
+All locationsSunday, 26 MarchSunday, 29 October
+Sri Lanka
+All locationsNo DST in 2023
+St. Barts
+All locationsNo DST in 2023
+Sudan
+All locationsNo DST in 2023
+Suriname
+All locationsNo DST in 2023
+Sweden
+All locationsSunday, 26 MarchSunday, 29 October
+Switzerland
+All locationsSunday, 26 MarchSunday, 29 October
+Syria
+All locationsNo DST in 2023
+Taiwan
+All locationsNo DST in 2023
+Tajikistan
+All locationsNo DST in 2023
+Tanzania
+All locationsNo DST in 2023
+Thailand
+All locationsNo DST in 2023
+The Bahamas
+All locationsSunday, 12 MarchSunday, 5 November
+Togo
+All locationsNo DST in 2023
+Tokelau
+All locationsNo DST in 2023
+Tonga
+All locationsNo DST in 2023
+Trinidad and Tobago
+All locationsNo DST in 2023
+Tunisia
+All locationsNo DST in 2023
+Turkey
+All locationsNo DST in 2023
+Turkmenistan
+All locationsNo DST in 2023
+Turks and Caicos Islands
+All locationsSunday, 12 MarchSunday, 5 November
+Tuvalu
+All locationsNo DST in 2023
+Uganda
+All locationsNo DST in 2023
+Ukraine
+Most locationsSunday, 26 MarchSunday, 29 October
+Auton. Republic of Crimea, much of Luhansk, much of DonetskNo DST in 2023
+United Arab Emirates
+All locationsNo DST in 2023
+United Kingdom
+All locationsSunday, 26 MarchSunday, 29 October
+United States
+Most locationsSunday, 12 MarchSunday, 5 November
+Hawaii, most of ArizonaNo DST in 2023
+Uruguay
+All locationsNo DST in 2023
+US Minor Outlying Islands
+All locationsNo DST in 2023
+US Virgin Islands
+All locationsNo DST in 2023
+Uzbekistan
+All locationsNo DST in 2023
+Vanuatu
+All locationsNo DST in 2023
+Vatican City (Holy See)
+All locationsSunday, 26 MarchSunday, 29 October
+Venezuela
+All locationsNo DST in 2023
+Vietnam
+All locationsNo DST in 2023
+Wallis and Futuna
+All locationsNo DST in 2023
+Western Sahara
+All locationsSunday, 23 AprilSunday, 19 March
+Yemen
+All locationsNo DST in 2023
+Zambia
+All locationsNo DST in 2023
+Zimbabwe
+All locationsNo DST in 2023
+DST in Sofia, Bulgaria
++1 hour
+DST started
+26 Mar 2023
+-1 hour
+DST ends
+29 Oct 2023
+Change DST city
+Daylight Saving Time Changes
+DST Summary Worldwide 2023
+DST Observance
+Count
+Example
+No DST at all177China
+At least one location observes DST72United States
+All locations observe DST some part of the year62Egypt
+Many locations observe DST part of the year9United States
+At least one location observes DST all year1
+All locations observe DST all year1Chile
+Daylight Saving Time for other years
+Yearly Overview
+January–June
+July–December
+2021first half of 2021second half of 2021
+2022first half of 2022second half of 2022
+2023first half of 2023second half of 2023
+2024first half of 2024second half of 2024
+2025first half of 2025second half of 2025
+Other years
+Year:197019711972197319741975197619771978197919801981198219831984198519861987198819891990199119921993199419951996199719981999200020012002200320042005200620072008200920102011201220132014201520162017201820192020202120222023202420252026202720282029Type:Overview over the yearDetailed - first halfDetailed - second half
+Daylight Saving Time – DST
+ One Hour Back or Forward? 
+ What Is Standard Time? 
+ Savings or Saving? 
+ Pros and Cons of DST 
+ Your Health and DST 
+ Is Summer Time the Same as DST? 
+ Winter Time or Standard Time? 
+ History of DST 
+ DST in the USA 
+ DST in Europe 
+ History of DST in Europe 
+ How Does DST Work? 
+ DST Statistics 
+ Circadian Rhythm: Your Body’s Master Clock 
+ Time Zones & DST 
+Time Zone Map
+Current local times around the world, including (DST) changes.
+Time Zone Library
+ What Is a Time Zone? 
+ How Many Time Zones Are There? 
+ What Is Standard Time? 
+ Half Hour & 45 Minute Time Zones 
+ What's the International Date Line? 
+ Why Do We Have Time Zones? 
+ Time at the North Pole 
+ Time on Cruise Ships 
+ Jet Lag Tips 
+ Time Zones Worldwide 
+Advertising
+ AdMgr.dispSlot(0);  
+Elsewhere on timeanddate.com
+Daylight Saving Time (DST) 
+Why do many countries set the clocks back and forth an hour twice a year? 
+ 
+About the 12 Months 
+Why are there 12 months? How long are they, and what do the month names mean? 
+ 
+History of DST 
+History of Daylight Saving Time (DST). Why was Daylight Saving Time created, who invented it, and what is the point of having a time change every year? 
+ 
+UTC: Coordinated Universal Time 
+Coordinated Universal Time (UTC) is the basis for civil time today. This 24-hour time standard is kept using highly precise atomic clocks combined with the Earth's rotation. 
+  
+How was your experience? Thank you for your feedback!    
+Contact Us 
+  
+ Love Our Site? Become a Supporter  
+Browse our site advert free.
+Sun & Moon times precise to the second.
+Exclusive calendar templates for PDF Calendar.
+ 
+ 
+© Time and Date AS 1995–2023
+ 
+Company
+About us
+Careers/Jobs
+Contact Us
+Contact Details
+Sitemap
+Newsletter
+Legal
+Link policy
+Advertising
+Disclaimer
+Terms & Conditions
+Privacy Policy
+My Privacy
+Services
+World Clock
+Time Zones
+Calendar
+Weather
+Sun & Moon
+Timers
+Calculators
+API
+Apps
+Sites
+timeanddate.no
+timeanddate.de
+Follow Us
+     
+ 
+© Time and Date AS 1995–2023. Privacy & Terms 
+  bli();main();  
+//Copyright timeanddate.com 2021, do not use without permission (function(){function d(a,c){var b=this;b._element=a;b._target=c.target||a;"string"==typeof c.target&&(b._target=gf(c.target));b._classname=c.classname||"active";ael(a,"click",function(a){b._onclick(a)})}d.prototype._onclick=function(a){a.preventDefault();ac(this._target,this._classname,!hC(this._target,this._classname));return!1};_T.control.add("ClassOnClick",d)})(); _T.control.applyBindingsOnLoad(); 

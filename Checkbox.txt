@@ -1,0 +1,17 @@
+Checkbox7 - Middle east
+
+Checkbox8 - Balkans
+
+Checkbox9 - Extra
+canada/vancouver
+usa/new-york
+usa/los-angeles
+usa/hawaii
+usa/alaska
+american-samoa
+greenland/nuuk
+
+
+;;;;;;;;;;;;;;;;;;;;;;
+Checkbox10 - All
+(ALL)
