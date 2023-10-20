@@ -2,8 +2,11 @@ This is a project called LearnTimezones.
 
 To run the app, simply execute "Main Menu.ahk." Make sure you have AutoHotKey (AHK) version 1.1 installed. You can install AHK v1.1 from here: [AutoHotKey Website](https://www.autohotkey.com/).
 
-![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/d967379b-f50f-4276-b8bb-cf030b7927bf)
-![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/89edfdde-0aa5-4ada-b897-64218f61bfc6)
+![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/1b946510-952e-4b54-a2c0-3914bc878e81)
+
+
+![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/54da3c16-a752-428b-92f9-1f96c4f8af75)
+
 
 
 
