@@ -46,3 +46,13 @@ Now, we can select a country or territory, and we need to know all the countries
 And here's how it looks as of October 20, 2023:
 
 ![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/4cda0419-46af-4622-96bc-ff41cd0bab68)
+
+
+
+So now we can press 3 to go back to the main menu. Then we can click on the button, check DTS dates. And there we can select a date where we can see what countries or territories will change the time there. Also there is a tick box where we can see more details.
+
+![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/a830a83a-e3f7-4014-a4d7-ecab81baa94a)
+
+
+And that's all about the LearnTimezones app.
+
