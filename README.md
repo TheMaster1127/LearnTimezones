@@ -1,6 +1,11 @@
 This is a project called LearnTimezones.
 
-To run the app, simply execute "Main Menu.ahk." Make sure you have AutoHotKey (AHK) version 1.1 installed.
+To run the app, simply execute "Main Menu.ahk." Make sure you have AutoHotKey (AHK) version 1.1 installed. You can install AHK v1.1 from here: [AutoHotKey Website](https://www.autohotkey.com/).
+
+![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/d967379b-f50f-4276-b8bb-cf030b7927bf)
+![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/89edfdde-0aa5-4ada-b897-64218f61bfc6)
+
+
 
 To update the timezone information with the latest data, run "Check Timezone 1.0 beta.ahk." Please wait until the script is no longer running.
 
