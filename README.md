@@ -34,4 +34,15 @@ Then, when we press the space bar, we will reveal the country or territory. Then
 ![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/24828da2-f816-4fc0-80d8-cdf37d4072b2)
 
 
+Now, we can go back by pressing 3, and we can choose a country or territory again. But this time, we can only select one box and press the 'Check Timezones' button. Then, we can pick a country or a territory, and it will show what the current time is in the country or territory we selected. Also, make sure the app is updated for the best results because time zones change in different countries or territories throughout the year.
 
+Now for example if we select Europe we will see:
+
+![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/767db523-f998-41ce-aefa-eef2626e7019)
+
+
+Now, we can select a country or territory, and we need to know all the countries or territories that share the same time as the one we choose. For example, I will select my country, Bulgaria.
+
+And here's how it looks as of October 20, 2023:
+
+![image](https://github.com/TheMaster1127/LearnTimezones/assets/134737935/4cda0419-46af-4622-96bc-ff41cd0bab68)
