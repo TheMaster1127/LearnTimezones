@@ -419,7 +419,7 @@ Else If (c1c = "biot")
 
 
 ;Canada
-If (c1c = "canada/british-columbia")
+If (c1c = "canada/victoria")
 {
     GuiControl, Text, Static3, Larger Western Part of British Columbia - Canada
 }

@@ -1,3 +1,4 @@
+All locationsNo DST in 2023
 Anguilla
 All locationsNo DST in 2023
 Antarctica
@@ -170,10 +171,9 @@ All locationsSunday, 26 MarchSunday, 29 October
 Greece
 All locationsSunday, 26 MarchSunday, 29 October
 Greenland
-Most locationsSaturday, 25 MarchSaturday, 28 October
-Some locationsNo DST in 2023
-IttoqqortoormiitSunday, 26 MarchSunday, 29 October
+Most locationsNo DST in 2023
 Thule Air BaseSunday, 12 MarchSunday, 5 November
+IttoqqortoormiitSunday, 26 MarchSunday, 29 October
 Grenada
 All locationsNo DST in 2023
 Guadeloupe
@@ -501,7 +501,7 @@ DST in Sofia, Bulgaria
 DST started
 26 Mar 2023
 -1 hour
-DST ends
+DST ended
 29 Oct 2023
 Change DST city
 Daylight Saving Time Changes

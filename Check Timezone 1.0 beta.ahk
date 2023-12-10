@@ -451,7 +451,7 @@ c1c1 = British Indian Ocean Territory - United Kingdom
 
 
 ;Canada
-If (c1c1 = "canada/british-columbia")
+If (c1c1 = "canada/victoria")
 {
 c1c1 = Larger Western Part of British Columbia - Canada
 }

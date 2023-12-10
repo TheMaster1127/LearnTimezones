@@ -8,7 +8,6 @@
 23 AprilSunday
 24 MarchSunday
 24 SeptemberSunday
-25 MarchSaturday
 26 March
 26 MarchSunday
 27 October
