@@ -13,6 +13,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
 
+
 Gui, Font, s13
 Gui, Color, 121212
 Gui, Add, Checkbox, cWhite x10 y10 w250 h20 vCheckbox1, Oceania (13)

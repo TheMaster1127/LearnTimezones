@@ -3,6 +3,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 FileDelete, DTS0.txt
 FileDelete, DTS.txt
 FileDelete, dts12.txt
+FileDelete, DTS99.txt
+FileDelete, DTS_final.txt
 website = https://www.timeanddate.com/time/dst/%A_Year%.html
 ; Load the website
 ie := ComObjCreate("InternetExplorer.Application")

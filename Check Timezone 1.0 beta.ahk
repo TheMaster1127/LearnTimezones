@@ -26,8 +26,8 @@ Sleep, 5000
 }
 
 Sleep, 10
-Run list of DTS Checking.ahk
-Sleep, 10500
+RunWait, list of DTS Checking.ahk
+Sleep, 100
 
 ;MsgBox, 262144, , var runnnn, 1
 FileRead, OutputVar, countries291.txt
