@@ -68,6 +68,7 @@ Loop, Parse, InputData, `n
     ; Check if the line contains a date
     if (RegExMatch(A_LoopField, "([1-9]|[12][0-9]|3[01])\s(January|February|March|April|May|June|July|August|September|October|November|December)"))
     {
+
         ; Write the previous line and current line to separate output files
         FileAppend, %PreviousLine%`n, %PreviousFile%
         FileAppend, %A_LoopField%`n, %OutputFile%
@@ -133,6 +134,7 @@ jjnn++
 FileRead, OutputVar, DTS_done.txt
 Sort, OutputVar, u
 OutputVar := RegExReplace(OutputVar, "\R+\R", "`r`n")
+
 FileDelete, DTS_done.txt
 sleep, 30
 FileAppend, %OutputVar%, DTS_done.txt
@@ -177,9 +179,9 @@ Loop, %total_lines%
 {
 FileReadLine, varMMM, DTS_final.txt, %nnn4%
 str := varMMM
-s:=StrSplit(str,A_Space).1
+s:=StrSplit(str, " ").1
 dd1d%nnn4% := s
-s:=StrSplit(str,A_Space).2
+s:=StrSplit(str, " ").2
 dd2d%nnn4% := s
 nnn4++
 }
@@ -248,14 +250,15 @@ Loop, Read, DTS_final.txt
 {
    total_lines = %A_Index%
 }
+total_lines++
 nnn4 := 1
 Loop, %total_lines%
 {
 FileReadLine, varMMM, DTS_final.txt, %nnn4%
 str := varMMM
-s:=StrSplit(str,A_Space).1
+s:=StrSplit(str, " ").1
 dd1d%nnn4% := s
-s:=StrSplit(str,A_Space).2
+s:=StrSplit(str, " ").2
 dd2d%nnn4% := s
 nnn4++
 }

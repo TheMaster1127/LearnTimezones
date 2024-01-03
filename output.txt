@@ -1,636 +1,636 @@
 zambia/lusaka
-11:45:05 ?.|10
+12:40:18 ?.|3
 St. John's, Newfoundland and Labrador - Canada
-06:15:06 ?.|10
+07:10:19 ?.|3
 comoros/moroni
-12:45:06 ?.|10
+13:40:19 ?.|3
 israel/jerusalem
-11:45:07 ?.|10
+12:40:21 ?.|3
 guinea-bissau/bissau
-09:45:07 ?.|10
+10:40:22 ?.|3
 barbados/bridgetown
-05:45:08 ?.|10
+06:40:23 ?.|3
 Faroe Islands
-09:45:08 ?.|10
+10:40:24 ?.|3
 philippines/manila
-17:45:08 ?.|10
+18:40:25 ?.|3
 dominican-republic/santo-domingo
-05:45:09 ?.|10
+06:40:26 ?.|3
 madagascar/antananarivo
-12:45:09 ?.|10
+13:40:27 ?.|3
 mozambique/maputo
-11:45:10 ?.|10
+12:40:28 ?.|3
 belize/belmopan
-03:45:11 ?.|10
+04:40:29 ?.|3
 algeria/algiers
-10:45:11 ?.|10
+11:40:29 ?.|3
 (Kamchatka Time) - Russia
-21:45:12 ?.|10
+22:40:30 ?.|3
 Anguilla, Bermuda, British Virgin Islands, Montserrat - United Kingdom
-05:45:12 ?.|10
+06:40:31 ?.|3
 Darwin, Northern Territory, Australia
-19:15:13 ?.|10
+20:10:32 ?.|3
 moldova/chisinau
-11:45:13 ?.|10
+12:40:33 ?.|3
 qatar/doha
-12:45:14 ?.|10
+13:40:35 ?.|3
 oman/muscat
-13:45:14 ?.|10
+14:40:36 ?.|3
 Puerto Rico, the U.S. Virgin Islands - United States
-05:45:15 ?.|10
+06:40:37 ?.|3
 fiji/suva
-21:45:15 ?.|10
+22:40:38 ?.|3
 palau/melekeok
-18:45:16 ?.|10
+19:40:39 ?.|3
 bangladesh/dhaka
-15:45:16 ?.|10
+16:40:41 ?.|3
 nicaragua/managua
-03:45:17 ?.|10
+04:40:42 ?.|3
 vanuatu/port-vila
-20:45:17 ?.|10
+21:40:43 ?.|3
 djibouti/djibouti
-12:45:17 ?.|10
+13:40:45 ?.|3
 Christmas Island - Australia
-16:45:18 ?.|10
+17:40:46 ?.|3
 Easter Island - Chile
-04:45:18 ?.|10
+05:40:47 ?.|3
 Mawson Station - Antarctica
-14:45:18 ?.|10
+15:40:48 ?.|3
 Pitcairn Islands - United Kingdom
-01:45:19 ?.|10
+02:40:49 ?.|3
 timor-leste/dili
-18:45:19 ?.|10
+19:40:50 ?.|3
 malta/valletta
-10:45:19 ?.|10
+11:40:51 ?.|3
 Eastern Time zone - Florida, New York - United States
-04:45:20 ?.|10
+05:40:52 ?.|3
 north-korea/pyongyang
-18:45:21 ?.|10
+19:40:54 ?.|3
 Territory of Heard Island and McDonald Islands - Australia
-14:45:22 ?.|10
+15:40:54 ?.|3
 Casey Station - Antarctica
-17:45:22 ?.|10
+18:40:55 ?.|3
 haiti/port-au-prince
-04:45:23 ?.|10
+05:40:55 ?.|3
 palestine
-11:45:23 ?.|10
+12:40:57 ?.|3
 taiwan/taipei
-17:45:23 ?.|10
+18:40:58 ?.|3
 united-arab-emirates/abu-dhabi
-13:45:24 ?.|10
+14:40:59 ?.|3
 Most of Greenland, including inhabited south coast and west coast
-07:45:24 ?.|10
+08:41:00 ?.|3
 bhutan/thimphu
-15:45:25 ?.|10
+16:41:01 ?.|3
 slovenia/ljubljana
-10:45:25 ?.|10
+11:41:01 ?.|3
 costa-rica/san-jose
-03:45:25 ?.|10
+04:41:02 ?.|3
 lithuania/vilnius
-11:45:26 ?.|10
+12:41:04 ?.|3
 sao-tome-and-principe/sao-tome
-09:45:26 ?.|10
+10:41:05 ?.|3
 Palmer Station, Rothera Station - Antarctica
-06:45:27 ?.|10
+07:41:05 ?.|3
 Kerguelen Islands, Saint Paul and Amsterdam Islands - France
-14:45:27 ?.|10
+15:41:06 ?.|3
 romania/bucharest
-11:45:28 ?.|10
+12:41:06 ?.|3
 Central Time zone - Illinois - United States
-03:45:28 ?.|10
+04:41:08 ?.|3
 uK/london
-09:45:29 ?.|10
+10:41:08 ?.|3
 ghana/accra
-09:45:29 ?.|10
+10:41:09 ?.|3
 micronesia/palikir
-20:45:30 ?.|10
+21:41:10 ?.|3
 (Brazil time -2) - Acre and Southwestern Amazonas Rio Branco - Brazil
-04:45:30 ?.|10
+05:41:12 ?.|3
 (Brazil time +1) - few islands on the east coast of Brazil - Fernando de Noronha, Saint Peter and Saint Paul Archipelago - Brazil
-07:45:30 ?.|10
+08:41:13 ?.|3
 Main territory of the Netherlands
-10:45:31 ?.|10
+11:41:14 ?.|3
 samoa/apia
-22:45:31 ?.|10
+23:41:14 ?.|3
 thailand/bangkok
-16:45:31 ?.|10
+17:41:15 ?.|3
 Vostok Station - Antarctica
-15:45:32 ?.|10
+16:41:16 ?.|3
 pakistan/islamabad
-14:45:32 ?.|10
+15:41:17 ?.|3
 malaysia/kuala-lumpur
-17:45:33 ?.|10
+18:41:18 ?.|3
 Norfolk Island - Australia
-21:45:33 ?.|10
+22:41:18 ?.|3
 libya/tripoli
-11:45:33 ?.|10
+12:41:19 ?.|3
 brunei/bandar-seri-begawan
-17:45:34 ?.|10
+18:41:20 ?.|3
 liberia/monrovia
-09:45:34 ?.|10
+10:41:20 ?.|3
 liechtenstein/vaduz
-10:45:34 ?.|10
+11:41:21 ?.|3
 (Magadan Time) - Russia
-20:45:35 ?.|10
+21:41:22 ?.|3
 central-african-republic/bangui
-10:45:35 ?.|10
+11:41:23 ?.|3
 Most of the country - Mongolia
-17:45:36 ?.|10
+18:41:24 ?.|3
 Thule Air Base in Greenland
-05:45:36 ?.|10
+06:41:25 ?.|3
 new-zealand/wellington
-22:45:36 ?.|10
+23:41:26 ?.|3
 burkina-faso/ouagadougou
-09:45:37 ?.|10
+10:41:27 ?.|3
 Chatham Islands - New Zealand
-23:30:37 ?.|10
+00:26:28 ?.|4
 singapore/singapore
-17:45:37 ?.|10
+18:41:29 ?.|3
 uruguay/montevideo
-06:45:38 ?.|10
+07:41:30 ?.|3
 lesotho/maseru
-11:45:38 ?.|10
+12:41:31 ?.|3
 ethiopia/addis-ababa
-12:45:39 ?.|10
+13:41:32 ?.|3
 croatia/zagreb
-10:45:39 ?.|10
+11:41:32 ?.|3
 peru/lima
-04:45:39 ?.|10
+05:41:33 ?.|3
 greece/athens
-11:45:40 ?.|10
+12:41:34 ?.|3
 Dumont-d'Urville Station - Antarctica
-19:45:40 ?.|10
+20:41:34 ?.|3
 Tokelau - New Zealand
-22:45:41 ?.|10
+23:41:35 ?.|3
 Wallis and Futuna - France
-21:45:41 ?.|10
+22:41:35 ?.|3
 usa/washington-dc
-04:45:42 ?.|10
+05:41:36 ?.|3
 argentina/buenos-aires
-06:45:42 ?.|10
+07:41:37 ?.|3
 Falkland Islands - United Kingdom
-06:45:43 ?.|10
+07:41:37 ?.|3
 italy/rome
-10:45:43 ?.|10
+11:41:38 ?.|3
 denmark/copenhagen
-10:45:43 ?.|10
+11:41:38 ?.|3
 tunisia/tunis
-10:45:44 ?.|10
+11:41:39 ?.|3
 Chuuk Time - Federated States of Micronesia
-19:45:44 ?.|10
+20:41:40 ?.|3
 Akrotiri and Dhekelia - United Kingdom
-09:45:45 ?.|10
+10:41:40 ?.|3
 morocco/rabat
-10:45:45 ?.|10
+11:41:41 ?.|3
 belarus/minsk
-12:45:45 ?.|10
+13:41:41 ?.|3
 Gibraltar - United Kingdom
-10:45:46 ?.|10
+11:41:42 ?.|3
 brazil/brasilia
-06:45:46 ?.|10
+07:41:42 ?.|3
 vatican-city-state/vatican-city
-10:45:46 ?.|10
+11:41:43 ?.|3
 uganda/kampala
-12:45:47 ?.|10
+13:41:43 ?.|3
 monaco/monaco
-10:45:47 ?.|10
+11:41:44 ?.|3
 main territory of the United Kingdom, Saint Helena, Ascension and Tristan da Cunha, Guernsey, Isle of Man, Jersey - United Kingdom
-09:45:48 ?.|10
+10:41:44 ?.|3
 cote-divoire/yamoussoukro
-09:45:48 ?.|10
+10:41:45 ?.|3
 mauritania/nouakchott
-09:45:49 ?.|10
+10:41:45 ?.|3
 bahamas/nassau
-04:45:49 ?.|10
+05:41:46 ?.|3
 Mountain Time zone - most of Idaho, part of Oregon - United States
-02:45:49 ?.|10
+03:41:47 ?.|3
 norway/oslo
-10:45:50 ?.|10
+11:41:47 ?.|3
 czech-republic/prague
-10:45:50 ?.|10
+11:41:48 ?.|3
 hungary/budapest
-10:45:51 ?.|10
+11:41:49 ?.|3
 cuba/havana
-04:45:51 ?.|10
+05:41:49 ?.|3
 dominica/roseau
-05:45:51 ?.|10
+06:41:50 ?.|3
 Eucla, Western Australia, Australia - Australia
-18:30:52 ?.|10
+19:26:50 ?.|3
 kosovo/pristina
-10:45:52 ?.|10
+11:41:51 ?.|3
 germany/berlin
-10:45:53 ?.|10
+11:41:52 ?.|3
 (Omsk Time) — Omsk Oblast - Russia
-15:45:53 ?.|10
+16:41:52 ?.|3
 Niue - New Zealand
-22:45:53 ?.|9
+23:41:53 ?.|2
 (Vladivostok Time) - Russia
-19:45:54 ?.|10
+20:41:53 ?.|3
 turkey/ankara
-12:45:54 ?.|10
+13:41:54 ?.|3
 ukraine/kyiv
-11:45:54 ?.|10
+12:41:55 ?.|3
 south-sudan/juba
-11:45:55 ?.|10
+12:41:55 ?.|3
 Clipperton Island - France
-01:45:55 ?.|10
+02:41:56 ?.|3
 iceland/reykjavik
-09:45:55 ?.|10
+10:41:57 ?.|3
 Gilbert Islands - Kiribati
-21:45:56 ?.|10
+22:41:57 ?.|3
 maldives/male
-14:45:56 ?.|10
+15:41:58 ?.|3
 Mayotte, Scattered Islands in the Indian Ocean - France
-12:45:56 ?.|10
+13:41:58 ?.|3
 sierra-leone/freetown
-09:45:57 ?.|10
+10:41:59 ?.|3
 kyrgyzstan/bishkek
-15:45:57 ?.|10
+16:42:00 ?.|3
 Syowa Station - Antarctica
-12:45:58 ?.|10
+13:42:00 ?.|3
 paraguay/asuncion
-06:45:58 ?.|10
+07:42:01 ?.|3
 Adelaide, South Australia, Australia - Australia
-20:15:59 ?.|10
+21:12:02 ?.|3
 Alberta - Canada
-02:45:59 ?.|10
+03:42:02 ?.|3
 eritrea/asmara
-12:46:00 ?.|10
+13:42:03 ?.|3
 azerbaijan/baku
-13:46:02 ?.|10
+14:42:03 ?.|3
 poland/warsaw
-10:46:03 ?.|10
+11:42:04 ?.|3
 western-sahara/el-aaiun
-10:46:05 ?.|10
+11:42:05 ?.|3
 latvia/riga
-11:46:06 ?.|10
+12:42:05 ?.|3
 france/paris
-10:46:07 ?.|10
+11:42:06 ?.|3
 (Moscow Time) — Most of European Russia - Russia
-12:46:07 ?.|10
+13:42:07 ?.|3
 (Ecuador Time) — main territory of Ecuador
-04:46:08 ?.|10
+05:42:07 ?.|3
 syria/damascus
-12:46:09 ?.|10
+13:42:08 ?.|3
 (Yakutsk Time) - Russia
-18:46:09 ?.|10
+19:42:08 ?.|3
 Réunion, Crozet Islands - France
-13:46:10 ?.|10
+14:42:09 ?.|3
 South Georgia and the South Sandwich Islands - United Kingdom
-07:46:10 ?.|10
+08:42:10 ?.|3
 malawi/lilongwe
-11:46:11 ?.|10
+12:42:10 ?.|3
 equatorial-guinea/malabo
-10:46:11 ?.|10
+11:42:11 ?.|3
 Larger Western Part of British Columbia - Canada
-01:46:11 ?.|10
+02:42:11 ?.|3
 laos/vientiane
-16:46:12 ?.|10
+17:42:12 ?.|3
 cameroon/yaounde
-10:46:13 ?.|10
+11:42:12 ?.|3
 myanmar/naypyidaw
-16:16:13 ?.|10
+17:12:13 ?.|3
 Baker Island and Howland Island - United States
-21:46:14 ?.|9
+22:42:14 ?.|2
 (Central Indonesian Standard Time) - islands of Sulawesi and Bali - Indonesia
-17:46:14 ?.|10
+18:42:14 ?.|3
 georgia/tbilisi
-13:46:15 ?.|10
+14:42:15 ?.|3
 Gambier Islands - France
-00:46:15 ?.|10
+01:42:15 ?.|3
 seychelles/victoria
-13:46:16 ?.|10
+14:42:16 ?.|3
 American Samoa, Jarvis Island, Kingman Reef, Midway Atoll and Palmyra Atoll - United States
-22:46:16 ?.|9
+23:42:17 ?.|2
 gambia/banjul
-09:46:16 ?.|10
+10:42:18 ?.|3
 New Caledonia - France
-20:46:17 ?.|10
+21:42:18 ?.|3
 albania/tirana
-10:46:17 ?.|10
+11:42:19 ?.|3
 tajikistan/dushanbe
-14:46:18 ?.|10
+15:42:19 ?.|3
 Ponta Delgada - Azores - Portugal
-08:46:18 ?.|10
+09:42:20 ?.|3
 sri-lanka/colombo
-15:16:19 ?.|10
+16:12:21 ?.|3
 antigua-and-barbuda/saint-johns
-05:46:19 ?.|10
+06:42:21 ?.|3
 nigeria/abuja
-10:46:20 ?.|10
+11:42:22 ?.|3
 Western Kazakhstan (Aktobe, Atyrau, Kyzylorda, Mangystau and West Kazakhstan) - Kazakhstan
-14:46:20 ?.|10
+15:42:22 ?.|3
 tanzania/dodoma
-12:46:21 ?.|10
+13:42:23 ?.|3
 australia/canberra
-20:46:21 ?.|10
+21:42:23 ?.|3
 saudi-arabia/riyadh
-12:46:22 ?.|10
+13:42:24 ?.|3
 Cayman Islands, Turks and Caicos Islands - United Kingdom
-04:46:22 ?.|10
+05:42:25 ?.|3
 switzerland/bern
-10:46:23 ?.|10
+11:42:25 ?.|3
 Labrador, New Brunswick, Nova Scotia, Prince Edward Island - Canada
-05:46:23 ?.|10
+06:42:26 ?.|3
 Lord Howe Island - Australia
-20:46:23 ?.|10
+21:42:26 ?.|3
 china/beijing
-17:46:24 ?.|10
+18:42:27 ?.|3
 saint-lucia/castries
-05:46:24 ?.|10
+06:42:27 ?.|3
 canada/ottawa
-04:46:25 ?.|10
+05:42:28 ?.|3
 Galapagos Islands - Ecuador
-03:46:25 ?.|10
+04:42:29 ?.|3
 south-korea/seoul
-18:46:26 ?.|10
+19:42:29 ?.|3
 panama/panama
-04:46:26 ?.|10
+05:42:30 ?.|3
 india/new-delhi
-15:16:26 ?.|10
+16:12:30 ?.|3
 chad/ndjamena
-10:46:27 ?.|10
+11:42:31 ?.|3
 (Irkutsk Time) — Buryatia and Irkutsk Oblast - Russia
-17:46:27 ?.|10
+18:42:31 ?.|3
 saint-vincent-and-grenadines/kingstown
-05:46:28 ?.|10
+06:42:32 ?.|3
 zimbabwe/harare
-11:46:28 ?.|10
+12:42:33 ?.|3
 chile/santiago
-06:46:28 ?.|10
+07:42:33 ?.|3
 Western Australia - Perth - Australia
-17:46:29 ?.|10
+18:42:34 ?.|3
 Cook Islands - New Zealand
-23:46:29 ?.|9
+00:42:34 ?.|3
 namibia/windhoek
-11:46:30 ?.|10
+12:42:35 ?.|3
 Guam and the Northern Mariana Islands - United States
-19:46:30 ?.|10
+20:42:36 ?.|3
 venezuela/caracas
-05:46:31 ?.|10
+06:42:36 ?.|3
 Society Islands, Tuamotus, Austral Islands - France
-23:46:31 ?.|9
+00:42:37 ?.|3
 kenya/nairobi
-12:46:32 ?.|10
+13:42:38 ?.|3
 (Samara Time) - Russia
-13:46:33 ?.|10
+14:42:38 ?.|3
 bosnia-herzegovina/sarajevo
-10:46:33 ?.|10
+11:42:39 ?.|3
 (Brazil time -1) - Most part of the Amazonas State, Mato Grosso, Mato Grosso do Sul, Rondônia, Roraima - Brazil
-05:46:34 ?.|10
+06:42:39 ?.|3
 Davis Station - Antarctica
-16:46:34 ?.|10
+17:42:40 ?.|3
 el-salvador/san-salvador
-03:46:35 ?.|10
+04:42:40 ?.|3
 Manitoba - Canada
-03:46:36 ?.|10
+04:42:41 ?.|3
 Wake Island - United States
-21:46:36 ?.|10
+22:42:42 ?.|3
 Reynosa and most of Mexico  - Mexico
-03:46:37 ?.|10
+04:42:42 ?.|3
 bahrain/manama
-12:46:37 ?.|10
+13:42:43 ?.|3
 guatemala/guatemala
-03:46:38 ?.|10
+04:42:44 ?.|3
 cambodia/phnom-penh
-16:46:38 ?.|10
+17:42:45 ?.|3
 colombia/bogota
-04:46:39 ?.|10
+05:42:45 ?.|3
 lebanon/beirut
-11:46:39 ?.|10
+12:42:46 ?.|3
 kazakstan/astana
-15:46:39 ?.|10
+16:42:47 ?.|3
 uzbekistan/tashkent
-14:46:40 ?.|10
+15:42:47 ?.|3
 kuwait/kuwait-city
-12:46:40 ?.|10
+13:42:48 ?.|3
 cyprus/nicosia
-11:46:41 ?.|10
+12:42:48 ?.|3
 togo/lome
-09:46:41 ?.|10
+10:42:49 ?.|3
 Northwest Zone - the state of Baja California - Mexico
-01:46:41 ?.|10
+02:42:49 ?.|3
 Punta Arenas South of Chile no DTS zone - Chile
-06:46:42 ?.|10
+07:42:50 ?.|3
 montenegro/podgorica
-10:46:42 ?.|10
+11:42:50 ?.|3
 nauru/yaren
-21:46:43 ?.|10
+22:42:51 ?.|3
 congo/brazzaville
-10:46:44 ?.|10
+11:42:52 ?.|3
 afghanistan/kabul
-14:16:45 ?.|10
+15:12:52 ?.|3
 rwanda/kigali
-11:46:47 ?.|10
+12:42:53 ?.|3
 austria/vienna
-10:46:47 ?.|10
+11:42:53 ?.|3
 mauritius/port-louis
-13:46:48 ?.|10
+14:42:54 ?.|3
 belgium/brussels
-10:46:48 ?.|10
+11:42:55 ?.|3
 ireland/dublin
-09:46:49 ?.|10
+10:42:55 ?.|3
 McMurdo Station, Amundsen–Scott South Pole Station - Antarctica
-22:46:49 ?.|10
+23:42:56 ?.|3
 solomon-islands/honiara
-20:46:50 ?.|10
+21:42:57 ?.|3
 Troll Station - Antarctica
-09:46:50 ?.|10
+10:42:57 ?.|3
 luxembourg/luxembourg
-10:46:51 ?.|10
+11:42:58 ?.|3
 Line Islands - Kiribati
-23:46:52 ?.|10
+00:42:58 ?.|4
 angola/luanda
-10:46:52 ?.|10
+11:42:59 ?.|3
 japan/tokyo
-18:46:53 ?.|10
+19:43:00 ?.|3
 finland/helsinki
-11:46:53 ?.|10
+12:43:01 ?.|3
 armenia/yerevan
-13:46:53 ?.|10
+14:43:01 ?.|3
 (Western Indonesian Standard Time) - islands of Sumatra and Java - Indonesia
-16:46:54 ?.|10
+17:43:02 ?.|3
 tuvalu/funafuti
-21:46:54 ?.|10
+22:43:03 ?.|3
 Hawaii, most of the Aleutian Islands, and Johnston Atoll - United States
-23:46:55 ?.|9
+00:43:03 ?.|3
 (Yekaterinburg Time) - Russia
-14:46:55 ?.|10
+15:43:04 ?.|3
 The states of Kosrae and Pohnpei - Federated States of Micronesia
-20:46:55 ?.|10
+21:43:04 ?.|3
 gabon/libreville
-10:46:56 ?.|10
+11:43:05 ?.|3
 iran/tehran
-13:16:56 ?.|10
+14:13:06 ?.|3
 Pacific Time zone - California, Nevada and Oregon - United States
-01:46:56 ?.|10
+02:43:06 ?.|3
 serbia/belgrade
-10:46:57 ?.|10
+11:43:07 ?.|3
 botswana/gaborone
-11:46:57 ?.|10
+12:43:08 ?.|3
 most of the state of Alaska - United States
-00:46:58 ?.|10
+01:43:08 ?.|3
 Time Zone in Caribbean Netherlands
-05:46:58 ?.|10
+06:43:09 ?.|3
 south-africa/pretoria
-11:46:59 ?.|10
+12:43:09 ?.|3
 Mexico City Time - Mexico
-03:46:59 ?.|10
+04:43:11 ?.|3
 mali/bamako
-09:46:59 ?.|10
+10:43:12 ?.|3
 burundi/bujumbura
-11:47:00 ?.|10
+12:43:12 ?.|3
 guyana/georgetown
-05:47:00 ?.|10
+06:43:14 ?.|3
 Prince Edward Islands - South Africa
-12:47:01 ?.|10
+13:43:15 ?.|3
 benin/porto-novo
-10:47:01 ?.|10
+11:43:16 ?.|3
 Cocos (Keeling) Islands - Australia
-16:17:01 ?.|10
+17:13:17 ?.|3
 jamaica/kingston
-04:47:02 ?.|10
+05:43:18 ?.|3
 nepal/kathmandu
-15:32:02 ?.|10
+16:28:23 ?.|3
 Canary Islands - Spain
-09:47:03 ?.|10
+10:43:28 ?.|3
 British Indian Ocean Territory - United Kingdom
-15:47:03 ?.|10
+16:43:31 ?.|3
 bolivia/la-paz
-05:47:03 ?.|10
+06:43:33 ?.|3
 senegal/dakar
-09:47:04 ?.|10
+10:43:35 ?.|3
 Marquesas Islands - France
-00:17:04 ?.|10
+01:13:37 ?.|3
 Arawa - Bougainville - Papua New Guinea
-20:47:05 ?.|10
+21:43:38 ?.|3
 marshall-islands/majuro
-21:47:05 ?.|10
+22:43:39 ?.|3
 (Kaliningrad Time) — Kaliningrad Oblast - Russia
-11:47:06 ?.|10
+12:43:40 ?.|3
 niger/niamey
-10:47:06 ?.|10
+11:43:42 ?.|3
 Ittoqqortoormiit and surrounding area in Greenland's Tunu county
-08:47:07 ?.|10
+09:43:42 ?.|3
 (Novosibirsk Time) - Russia
-16:47:07 ?.|10
+17:43:43 ?.|3
 bulgaria/sofia
-11:47:07 ?.|10
+12:43:43 ?.|3
 (Eastern Indonesian Standard Time) - provinces of Maluku, North Maluku, Papua and West Papua - Indonesia
-18:47:08 ?.|10
+19:43:44 ?.|3
 guinea/conakry
-09:47:08 ?.|10
+10:43:46 ?.|3
 andorra/andorra-la-vella
-10:47:09 ?.|10
+11:43:46 ?.|3
 yemen/sana
-12:47:09 ?.|10
+13:43:47 ?.|3
 suriname/paramaribo
-06:47:10 ?.|10
+07:43:48 ?.|3
 The main territory of Portugal
-09:47:10 ?.|10
+10:43:49 ?.|3
 somalia/mogadishu
-12:47:11 ?.|10
+13:43:51 ?.|3
 iraq/baghdad
-12:47:11 ?.|10
+13:43:52 ?.|3
 vietnam/hanoi
-16:47:11 ?.|10
+17:43:54 ?.|3
 turkmenistan/ashgabat
-14:47:12 ?.|10
+15:43:55 ?.|3
 slovakia/bratislava
-10:47:12 ?.|10
+11:43:58 ?.|3
 saint-kitts-and-nevis/basseterre
-05:47:13 ?.|10
+06:43:59 ?.|3
 republic-of-macedonia/skopje
-10:47:13 ?.|10
+11:44:00 ?.|3
 French Guiana, Saint Pierre and Miquelon - France
-06:47:14 ?.|10
+07:44:00 ?.|3
 jordan/amman
-12:47:14 ?.|10
+13:44:01 ?.|3
 grenada/saint-georges
-05:47:15 ?.|10
+06:44:01 ?.|3
 Most of the country - Capital Time - Port Moresby - Papua New Guinea
-19:47:15 ?.|10
+20:44:02 ?.|3
 Victoria, Tasmania Brisbane, Queensland, Australia - Australia
-19:47:15 ?.|10
+20:44:03 ?.|3
 san-marino/san-marino
-10:47:16 ?.|10
+11:44:05 ?.|3
 Central Africa Time - Lubumbashi Time - Democratic Republic of the Congo
-11:47:16 ?.|10
+12:44:06 ?.|3
 Main territory of Spain
-10:47:17 ?.|10
+11:44:07 ?.|3
 honduras/tegucigalpa
-03:47:17 ?.|10
+04:44:08 ?.|3
 estonia/tallinn
-11:47:17 ?.|10
+12:44:10 ?.|3
 Phoenix Islands - Kiribati
-22:47:18 ?.|10
+23:44:11 ?.|3
 sweden/stockholm
-10:47:18 ?.|10
+11:44:13 ?.|3
 cape-verde/praia
-08:47:19 ?.|10
+09:44:14 ?.|3
 tonga/nuku-alofa
-22:47:20 ?.|10
+23:44:15 ?.|3
 The provinces of Khovd, Uvs and Bayan-Ölgii - Mongolia
-16:47:20 ?.|10
+17:44:16 ?.|3
 sudan/khartoum
-11:47:21 ?.|10
+12:44:18 ?.|3
 egypt/cairo
-11:47:21 ?.|10
+12:44:19 ?.|3
 trinidad-and-tobago/port-of-spain
-05:47:21 ?.|10
+06:44:20 ?.|3
 Guadeloupe, Martinique, Saint Barthélemy, Saint Martin - France
-05:47:22 ?.|10
+06:44:21 ?.|3
 timezone/utc-12
-21:47:23 ?.|9
+22:44:21 ?.|2
 timezone/utc-11
-22:47:24 ?.|9
+23:44:22 ?.|2
 timezone/utc-10
-23:47:25 ?.|9
+00:44:22 ?.|3
 timezone/utc-9
-00:47:26 ?.|10
+01:44:23 ?.|3
 timezone/utc-8
-01:47:27 ?.|10
+02:44:23 ?.|3
 timezone/utc-7
-02:47:28 ?.|10
+03:44:24 ?.|3
 timezone/utc-6
-03:47:29 ?.|10
+04:44:25 ?.|3
 timezone/utc-5
-04:47:30 ?.|10
+05:44:26 ?.|3
 timezone/utc-4
-05:47:30 ?.|10
+06:44:27 ?.|3
 timezone/utc-3
-06:47:31 ?.|10
+07:44:28 ?.|3
 timezone/utc-2
-07:47:31 ?.|10
+08:44:28 ?.|3
 timezone/utc-1
-08:47:31 ?.|10
+09:44:29 ?.|3
 timezone/utc
-09:47:32 ?.|10
+10:44:30 ?.|3
 timezone/utc1
-10:47:32 ?.|10
+11:44:31 ?.|3
 timezone/utc2
-11:47:33 ?.|10
+12:44:32 ?.|3
 timezone/utc3
-12:47:33 ?.|10
+13:44:33 ?.|3
 timezone/utc4
-13:47:33 ?.|10
+14:44:34 ?.|3
 timezone/utc5
-14:47:34 ?.|10
+15:44:35 ?.|3
 timezone/utc6
-15:47:34 ?.|10
+16:44:37 ?.|3
 timezone/utc7
-16:47:34 ?.|10
+17:44:39 ?.|3
 timezone/utc8
-17:47:35 ?.|10
+18:44:40 ?.|3
 timezone/utc9
-18:47:35 ?.|10
+19:44:41 ?.|3
 timezone/utc10
-19:47:35 ?.|10
+20:44:42 ?.|3
 timezone/utc11
-20:47:36 ?.|10
+21:44:43 ?.|3
 timezone/utc12
-21:47:36 ?.|10
+22:44:43 ?.|3
 timezone/utc13
-22:47:37 ?.|10
+23:44:44 ?.|3
 timezone/utc14
-23:47:37 ?.|10
+00:44:45 ?.|4

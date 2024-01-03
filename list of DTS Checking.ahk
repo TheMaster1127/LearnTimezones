@@ -215,6 +215,7 @@ m1m1m28 := 28
 m1m1m29 := 29
 m1m1m30 := 30
 m1m1m31 := 31
+m1m1m32 := 32
 nnn5 := 1
 nnn7 := 1
 Loop
@@ -247,6 +248,7 @@ Loop, Read, DTS_final.txt
 {
    total_lines = %A_Index%
 }
+total_lines++
 nnn4 := 1
 Loop, %total_lines%
 {
